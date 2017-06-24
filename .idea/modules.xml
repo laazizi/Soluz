@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Soluz.iml" filepath="$PROJECT_DIR$/Soluz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soluzIA/app.iml" filepath="$PROJECT_DIR$/soluzIA/app.iml" />
+    </modules>
+  </component>
+</project>

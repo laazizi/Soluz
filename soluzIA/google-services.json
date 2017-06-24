@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "1096992561579",
+    "firebase_url": "https://testfirebase-d6bb7.firebaseio.com",
+    "project_id": "testfirebase-d6bb7",
+    "storage_bucket": "testfirebase-d6bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096992561579:android:5dbed1ca1a1dbd97",
+        "android_client_info": {
+          "package_name": "robot.laazizi.com.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096992561579-0d6jb0iu24puu8rrbun8fsglr910i2n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "robot.laazizi.com.testfirebase",
+            "certificate_hash": "76075c464ba6c1b9f209627cb6ec41a84b347a43"
+          }
+        },
+        {
+          "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVOxEkNRjGz77KYUSxTBbHvHjqDkQ0Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096992561579:android:6e5073b7b331f2ff",
+        "android_client_info": {
+          "package_name": "robot.laazizi.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096992561579-shnm86r6me0vn9b84e118jaj0sqclr7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "robot.laazizi.com.myapplication",
+            "certificate_hash": "76075c464ba6c1b9f209627cb6ec41a84b347a43"
+          }
+        },
+        {
+          "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVOxEkNRjGz77KYUSxTBbHvHjqDkQ0Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096992561579:android:72716be32ac62d58",
+        "android_client_info": {
+          "package_name": "retail.laazizi.com.lotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096992561579-jccl8jcrn026ecrej6ss5anjcnvppd1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "retail.laazizi.com.lotapp",
+            "certificate_hash": "76075c464ba6c1b9f209627cb6ec41a84b347a43"
+          }
+        },
+        {
+          "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVOxEkNRjGz77KYUSxTBbHvHjqDkQ0Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096992561579:android:14a73014fed9a4af",
+        "android_client_info": {
+          "package_name": "soluz.laazizi.com.soluz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096992561579-t0inl0c68v6bpla4ov1thsmoqdoteokt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "soluz.laazizi.com.soluz",
+            "certificate_hash": "76075c464ba6c1b9f209627cb6ec41a84b347a43"
+          }
+        },
+        {
+          "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVOxEkNRjGz77KYUSxTBbHvHjqDkQ0Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096992561579-hu45tfn6tihfflcih1t6kok8h46rch7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
